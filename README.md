@@ -22,7 +22,7 @@ The repository is organized into three main sections, each containing multiple C
   - [Zero-Shot Inference with Tabula](https://colab.research.google.com/drive/1kFr4oaTTfoMxdiwCT6PSjOyZMymKrIvA?usp=sharing): Demonstrates zero-shot inference using the Tabula model.
 
 - **Relational Deep Learning (RDL) with RelBench** enables relational deep learning, specifically through graph neural networks (GNNs), which excel at capturing complex dependencies in tabular data. This section applies GNN-based models to relational datasets, showcasing the power of RDL for tasks where data connections drive insights.
-  - [GNN-Based Tabular Prediction](https://colab.research.google.com/drive/1NDPAfQq-ODocwHAiQ7m8hKu7Rd_id6J5?usp=sharing): Trains a GNN model for tabular prediction tasks using RelBench.
+  - [GNN-Based Tabular Prediction](https://colab.research.google.com/drive/1zZA2GcPP8KRHXF5PDg6j6eaGqHEskvAS?usp=sharing): Trains a GNN model for tabular prediction tasks using RelBench.
 
 ## Getting Started
 Each notebook in this repository is designed to be run in Google Colab. Click on any of the notebook links above to open it in Colab. Each notebook includes comprehensive code comments and explanations, making it suitable for anyone interested in time series forecasting, data synthesis, or relational deep learning.
